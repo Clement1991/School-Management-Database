@@ -2,7 +2,7 @@
 
 By Clement Gyasi Siaw
 
-Video overview: <https://www.youtube.com/watch?v=o6OaXg6fO9I>
+Video overview: [Watch Video Overview](https://www.youtube.com/watch?v=o6OaXg6fO9I)
 
 ## Scope
 
